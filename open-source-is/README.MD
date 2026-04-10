@@ -4,5 +4,5 @@ This Creative Commons design serves as a visual manifesto, designed to be freely
 The dynamic rainbow gradient signifies a dynamic, continuously flowing spectrum that represents the diverse perspectives and global unified effort behind open innovation. This design was unveiled for the first time at the Maintainer Summit in Amsterdam as a unifying symbol of appreciation for those who build and sustain our shared digital infrastructure.
 
 <p align="center">
-  <img src="open-source-is/Open_Source_Is_art.png" alt="SeeBOM Dashboard" >
+  <img src="open-source-is/Open_Source_Is_art.png" alt="Open Source is" width="900">
 </p>
